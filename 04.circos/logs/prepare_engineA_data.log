@@ -1,0 +1,57 @@
+[12:48:17] Step 1  karyotype (chr1-11, ordered)
+chr1	21045613
+chr2	19194776
+chr3	16466162
+chr4	16211660
+chr5	14200425
+chr6	13700885
+chr7	13005111
+chr8	12763670
+chr9	12466184
+chr10	7800220
+chr11	1169869
+[12:48:18] Step 2  non-overlapping 100000 bp windows
+[12:48:18] windows: 1487
+[12:48:18] Step 3  gene density (count per window)
+[12:48:18] Step 4  TE coverage fractions (merge -> coverage), capped at 1.0
+[12:48:19]   Copia elements: 539 merged
+[12:48:20]   Gypsy elements: 298 merged
+[12:48:20] Step 5  GC content (100000 bp non-overlapping, de-noised line)
+[12:48:22] Step 6  effectors (secreted proteins) -> points
+effectors: 255
+[12:48:22] Step 7  ncRNA  --  tRNA (GFF), snRNA (INFERNAL), rDNA collapsed loci
+[12:48:22]   tRNA: 614
+[12:48:22]   snRNA: 23   raw rRNA hits: 316
+[12:48:22]   rDNA loci:
+chr11	99	21038	24
+chr2	11429504	11690046	268
+chr3	547	21489	24
+[12:48:22] Step 8  per-track p98 colour caps + GC range -> caps.tsv
+track       cap
+gene_p98    25
+repeat_p98  0.0728700
+copia_p98   0.1363800
+gypsy_p98   0.1139100
+gc_p02      0.393770
+gc_p98      0.427370
+gc_min      0.382960
+gc_max      0.580060
+[12:48:22] DONE  ->  /home/cx264/project/03.TobaccoMildew/06.Annotation/13.circos/data/v2
+  copia.bed                  1487 lines
+  copia.merged.bed           539 lines
+  effectors.bed              255 lines
+  gc.bed                     1487 lines
+  gene_density.bed           1487 lines
+  genes.bed                  21061 lines
+  gypsy.bed                  1487 lines
+  gypsy.merged.bed           298 lines
+  rdna_loci.bed              3 lines
+  repeats.merged.bed         199816 lines
+  rrna.raw.bed               316 lines
+  snrna.bed                  23 lines
+  total_repeat.bed           1487 lines
+  trna.bed                   614 lines
+  windows.bed                1487 lines
+  caps.tsv                   9 lines
+  karyotype.tsv              11 lines
+  karyotype.circos.txt       11 lines

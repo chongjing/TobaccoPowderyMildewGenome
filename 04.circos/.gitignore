@@ -1,0 +1,12 @@
+# Local rerun intermediates created by prepare_engineA_data.sh
+/data/genome_chr.fa
+/data/genome_chr.fa.fai
+
+# Rerun-only logs and draft previews
+logs/*.rerun.log
+results/*_draft.png
+
+# OS/editor
+.DS_Store
+*.swp
+*~

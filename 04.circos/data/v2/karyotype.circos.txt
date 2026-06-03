@@ -1,0 +1,11 @@
+chr - chr1 1 0 21045613 c1
+chr - chr2 2 0 19194776 c2
+chr - chr3 3 0 16466162 c3
+chr - chr4 4 0 16211660 c4
+chr - chr5 5 0 14200425 c5
+chr - chr6 6 0 13700885 c6
+chr - chr7 7 0 13005111 c7
+chr - chr8 8 0 12763670 c8
+chr - chr9 9 0 12466184 c9
+chr - chr10 10 0 7800220 c10
+chr - chr11 11 0 1169869 c11
