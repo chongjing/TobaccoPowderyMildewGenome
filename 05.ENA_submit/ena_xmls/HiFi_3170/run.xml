@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<RUN_SET>
+  <RUN alias="webin-reads-HiFi_3170">
+    <TITLE>Raw reads: HiFi_3170</TITLE>
+    <EXPERIMENT_REF refname="webin-reads-HiFi_3170"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="webin-cli/reads/HiFi_3170/FPAC25H003170-1A.ill.hifi_reads.bam" filetype="bam" checksum_method="MD5" checksum="bca1aba7fbaf07f0ac7d81d267e1d601"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+</RUN_SET>

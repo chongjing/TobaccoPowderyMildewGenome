@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<RUN_SET>
+  <RUN alias="webin-reads-RNAseq_PM11_1">
+    <TITLE>Raw reads: RNAseq_PM11_1</TITLE>
+    <EXPERIMENT_REF refname="webin-reads-RNAseq_PM11_1"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="webin-cli/reads/RNAseq_PM11_1/PM11_1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9bcf8f4e5283b89ac9cd02b00b277743"/>
+        <FILE filename="webin-cli/reads/RNAseq_PM11_1/PM11_1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="6fe7248161284b8e8d0fcb2d790c8e34"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+</RUN_SET>
