@@ -15,6 +15,23 @@ Submission of HiFi, Hi-C, and RNA-seq reads for *Golovinomyces cichoracearum* (t
 
 ---
 
+## Run Accessions
+
+| Library      | Type       | Platform         | Experiment  | Run         | Submission  |
+|--------------|------------|------------------|-------------|-------------|-------------|
+| HiFi_2823    | PacBio HiFi | PacBio Revio     | ERX16757614 | ERR17368092 | ERA36389087 |
+| HiFi_3170    | PacBio HiFi | PacBio Revio     | ERX16757615 | ERR17368093 | ERA36389088 |
+| HiFi_3361    | PacBio HiFi | PacBio Revio     | ERX16757616 | ERR17368094 | ERA36389089 |
+| HiC_L1       | Hi-C       | DNBSEQ-T7        | ERX16757611 | ERR17368089 | ERA36389084 |
+| HiC_L2       | Hi-C       | DNBSEQ-T7        | ERX16757612 | ERR17368090 | ERA36389085 |
+| HiC_L3       | Hi-C       | DNBSEQ-T7        | ERX16757613 | ERR17368091 | ERA36389086 |
+| RNAseq_PM11_1 | RNA-seq   | Illumina NovaSeq 6000 | ERX16757609 | ERR17368087 | ERA36389082 |
+| RNAseq_PM11_2 | RNA-seq   | Illumina NovaSeq 6000 | ERX16757610 | ERR17368088 | ERA36389083 |
+
+**Status:** All experiments PRIVATE (will be released upon publication)
+
+---
+
 ## Data Summary
 
 | Library      | Type       | Platform         | Files        | Size     | Strategy |
