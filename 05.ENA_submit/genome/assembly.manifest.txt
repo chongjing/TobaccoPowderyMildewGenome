@@ -1,0 +1,8 @@
+STUDY	PRJEB114362
+SAMPLE	ERS30398005
+ASSEMBLYNAME	Golovinomyces_cichoracearum_BFJ
+ASSEMBLY_TYPE	ISOLATE
+COVERAGE	74
+PROGRAM	hifiasm v0.25.0 (scaffolded with YaHS v1.2.2)
+MOLECULETYPE	genomic DNA
+FLATFILE	Golovinomyces_cichoracearum.gbk
