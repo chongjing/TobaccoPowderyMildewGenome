@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	BFJ.2_L1_R1	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ.2_L1_R1_fastqc.zip
+FastQC	all_sections	BFJ.2_L1_R2	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ.2_L1_R2_fastqc.zip
+FastQC	all_sections	BFJ.2_L2_R1	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ.2_L2_R1_fastqc.zip
+FastQC	all_sections	BFJ.2_L2_R2	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ.2_L2_R2_fastqc.zip
+FastQC	all_sections	BFJ.2_L3_R1	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ.2_L3_R1_fastqc.zip
+FastQC	all_sections	BFJ.2_L3_R2	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ.2_L3_R2_fastqc.zip
+FastQC	all_sections	BFJ_WGS_L1_R1	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ_WGS_L1_R1_fastqc.zip
+FastQC	all_sections	BFJ_WGS_L1_R2	/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/03.PostQC/fastqc/BFJ_WGS_L1_R2_fastqc.zip

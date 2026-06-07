@@ -1,0 +1,31 @@
+# Supplementary Table 1: Sequencing Statistics
+#
+# Dataset: Golovinomyces cichoracearum BFJ genome project
+# Trimming: Trimmomatic v0.39, LEADING:5 TRAILING:5 SLIDINGWINDOW:4:15 MINLEN:50
+# 
+# Sample = sequencing library/lane ID
+# Type = data type
+# Raw_reads = total reads in raw file
+# Raw_bases = total bases in raw data (bp)
+# Raw_GC% = GC content percentage
+# Trimmed_reads = reads surviving trimming (paired only for PE)
+# Trimmed_bases = total bases after trimming (bp)
+# Retained_% = percentage of reads retained
+# Unpaired_% = percentage of orphan reads (lost mate)
+
+Sample	Type	Raw_reads	Raw_bases	Raw_GC%	Trimmed_reads	Trimmed_bases	Retained_%	Unpaired_%
+BFJ_WGS_L1	WGS	119057811	17858671650	42	118875320	17816391507	99.85	0.15
+BFJ.2_L1	Hi-C	50028193	7504228950	41	49827295	7449600612	99.60	0.40
+BFJ.2_L2	Hi-C	7577523	1136628450	41	7558030	1130190224	99.74	0.26
+BFJ.2_L3	Hi-C	10391156	1558673400	41	10349890	1549117372	99.60	0.40
+FPAC25H002823	HiFi-B1	191084	3474211941	-	-	-	-	-
+FPAC25H003170	HiFi-B1	159736	2933344729	-	-	-	-	-
+FPAC25H003361	HiFi-B1	127905	2108651229	-	-	-	-	-
+FPAC26H000089	HiFi-B2	74545	1170141919	-	-	-	-	-
+FPAC26H000489	HiFi-B2	38450	636794682	-	-	-	-	-
+
+# Summary
+# WGS trimmed: 118,875,320 read pairs (35.6 Gb) — 99.85% retained
+# Hi-C trimmed: 67,735,215 read pairs (20.2 Gb) — 99.61% retained
+# HiFi total: 591,720 CCS reads (10.3 Gb) — no trimming needed
+# Total data: 66.1 Gb

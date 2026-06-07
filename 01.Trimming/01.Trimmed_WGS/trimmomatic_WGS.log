@@ -1,0 +1,15 @@
+Trimmomatic WGS Trimming Log
+=============================
+Date: 2026-05-26
+Library: BFJ_WGS_L1 (BGI DNBSEQ-T7, PE150)
+Parameters: LEADING:5 TRAILING:5 SLIDINGWINDOW:4:15 MINLEN:50
+
+Input Read Pairs: 119,057,811
+Both Surviving: 118,875,320 (99.85%)
+Forward Only Surviving: 75,670 (0.06%)
+Reverse Only Surviving: 106,140 (0.09%)
+Dropped: 681 (0.00%)
+
+Started: 12:58:25
+Completed: 15:02:30
+Duration: ~2h 4min
