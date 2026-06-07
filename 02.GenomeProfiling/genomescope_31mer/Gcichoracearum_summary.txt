@@ -1,0 +1,14 @@
+GenomeScope version 2.0
+input file = /home/cx264/project/03.TobaccoMildew/00.workflow/02.GenomeProfiling/kmc_31mer/histogram_k31.txt
+output directory = /home/cx264/project/03.TobaccoMildew/00.workflow/02.GenomeProfiling/genomescope_31mer/
+p = 1
+k = 31
+name prefix = Gcichoracearum
+
+property                      min               max
+Homozygous (a)                100%              100%
+Genome Haploid Length         143,624,206 bp    143,901,297 bp
+Genome Repeat Length          72,208,957 bp     72,348,267 bp
+Genome Unique Length          71,415,250 bp     71,553,029 bp
+Model Fit                     51.9382%          95.1524%
+Read Error Rate               0.180717%         0.180717%

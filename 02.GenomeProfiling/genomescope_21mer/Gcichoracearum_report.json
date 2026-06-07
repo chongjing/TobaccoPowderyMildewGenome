@@ -1,0 +1,90 @@
+{
+  "version": "2.1.0",
+  "commandline_arguments": "-i /home/cx264/project/03.TobaccoMildew/00.workflow/02.GenomeProfiling/kmc_21mer/histogram_k21.txt -o /home/cx264/project/03.TobaccoMildew/00.workflow/02.GenomeProfiling/genomescope_21mer/ -p 1 -k 21 -n Gcichoracearum --json_report",
+  "input_parameters": {
+    "ploidy": 1,
+    "kmer_length": 21,
+    "initial_kmer_coverage": null,
+    "max_kmer_coverage": null,
+    "advanced": {
+      "topology": 0,
+      "initial_repetitiveness": null,
+      "initial_heterozygosities": null,
+      "transform_exponent": 1,
+      "num_rounds": 4,
+      "start_shift": 5,
+      "typical_error": 15
+    }
+  },
+  "kcov": 64.7655214210509,
+  "dup": 0.401877243580237,
+  "homozygous": {
+    "avg": 1,
+    "min": 1,
+    "max": 1
+  },
+  "heterozygous": {
+    "avg": 0,
+    "min": 0,
+    "max": 0
+  },
+  "repetitiveness": {
+    "avg": 0.0601138671248946,
+    "min": 0.057193154003491,
+    "max": 0.0630345802462981
+  },
+  "genome_haploid_length": {
+    "avg": 137229441,
+    "min": 137072039,
+    "max": 137387206
+  },
+  "genome_repeat_length": {
+    "avg": 77110364,
+    "min": 77021918,
+    "max": 77199013
+  },
+  "genome_unique_length": {
+    "avg": 60119077,
+    "min": 60050120,
+    "max": 60188193
+  },
+  "model_fit": {
+    "all": 0.459536869766631,
+    "full": 0.946142138829538,
+    "unique": 0.977339435139414
+  },
+  "read_error_rate": 0.00239185138601927,
+  "model_summary": {
+    "formula": "y_transform ~ x^transform_exp * length * predict1_0(k, d, kmercov, bias, x)",
+    "parameters": {
+      "d": {
+        "estimate": 0.0601138671248946,
+        "std_error": 0.00146035656070179,
+        "t_value": 41.1638285762255,
+        "p_value": 1.08232254312525e-268
+      },
+      "kmercov": {
+        "estimate": 64.7655214210509,
+        "std_error": 0.0371858194008293,
+        "t_value": 1741.67256402064,
+        "p_value": 0
+      },
+      "bias": {
+        "estimate": 0.401877243580237,
+        "std_error": 0.0108678572735845,
+        "t_value": 36.9785168744387,
+        "p_value": 1.90898293591851e-228
+      },
+      "length": {
+        "estimate": 63964213.4286556,
+        "std_error": 233287.970581166,
+        "t_value": 274.185648189696,
+        "p_value": 0
+      }
+    },
+    "residual_std_error": 1851791.14901198,
+    "degrees_of_freedom": 1996,
+    "iter_to_convergence": 5,
+    "convergence_tolerance": 1.49011611938477e-08
+  }
+}

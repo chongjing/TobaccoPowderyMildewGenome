@@ -1,0 +1,1 @@
+/home/cx264/project/03.TobaccoMildew/00.workflow/01.Trimming/01.Trimmed_WGS/BFJ_WGS_L1_R1.fastq.gz

@@ -1,0 +1,3 @@
+GenomeScope analyzing /home/cx264/project/03.TobaccoMildew/00.workflow/02.GenomeProfiling/kmc_21mer/histogram_k21.txt p=1 k=21 outdir=/home/cx264/project/03.TobaccoMildew/00.workflow/02.GenomeProfiling/genomescope_21mer/
+a:100%
+Model converged het:0 kcov:64.8 err:0.00239 model fit:0.402 len:137229441
