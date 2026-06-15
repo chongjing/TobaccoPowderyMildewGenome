@@ -1,0 +1,22 @@
+Metric	Value
+Total_length	166,488,068 bp
+Number_of_contigs	459
+Number_of_chromosomes	11
+Contig_N50	14,200,425 bp (14.20 Mb)
+L50	5
+Longest_contig	Chr1 (21,045,613 bp)
+Shortest_chromosome	Chr11 (1,169,869 bp)
+GC_content	41.59%
+Gaps_within_chromosomes	0
+T2T_chromosomes	9 of 11
+Consensus_quality_QV	47.18
+Kmer_completeness	99.29%
+BUSCO_genome_mode_complete	96.9%
+BUSCO_ascomycota_odb10_markers	1,706
+HiFi_read_mapping	99.10%
+HiC_read_mapping	89.72%
+Assembly_program	hifiasm v0.25.0
+Scaffolding_program	YaHS v1.2.2
+Sequencing_platform	PacBio Revio (HiFi) + BGI DNBSEQ-T7 (Hi-C)
+Estimated_genome_size_kmer	137-144 Mb
+Assembly_coverage	62x (HiFi)
