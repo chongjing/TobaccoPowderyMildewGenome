@@ -1,0 +1,4 @@
+Annotation_version	Genes	mRNAs	BUSCO_complete	Notes
+Unmasked (tantan only)	22,907	20,316	96.5%	Inflated by TE-derived models
+Repeat-masked (81.91%)	11,700	11,677	96.6%	Correct; TE models filtered
+Reduction	-48.9%	-42.5%	—

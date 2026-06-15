@@ -1,0 +1,22 @@
+Metric	Value
+Protein_coding_genes	11,700
+Messenger_RNAs	11,677
+Transcripts_incl_isoforms	12,569
+Mean_protein_length	361 aa
+mRNAs_with_5_prime_UTR	7,345 (63%)
+mRNAs_with_3_prime_UTR	8,173 (70%)
+mRNAs_with_both_UTRs	7,345 (63%)
+Complete_CDS	11,664 (99.9%)
+No_start_codon	5
+No_stop_codon	8
+No_start_no_stop	0
+Multi_exon_transcripts	8,580 (73.5%)
+Single_exon_transcripts	3,097 (26.5%)
+Total_exons	48,702
+Total_CDS_exons	27,059
+Transfer_RNAs	892
+Proteins_with_InterProScan	9,560 / 11,677 (81.9%)
+GO_term_assignments	21,818
+Structural_ncRNA_Infernal	2,852
+Ribosomal_DNA_loci	3
+Candidate_secreted_effectors	289
