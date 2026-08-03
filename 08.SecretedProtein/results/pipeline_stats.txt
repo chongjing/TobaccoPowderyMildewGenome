@@ -1,0 +1,10 @@
+Secreted Protein Pipeline — G. cichoracearum (PASA-updated)
+Date: Fri 12 Jun 14:34:56 BST 2026
+---
+Total predicted proteins:    11677
+SignalP6 SP+ (score>0.8):   358
+  SP only (secreted):        289
+  SP + TM:                   55
+  TM only:                   5
+  Globular:                  9
+Secreted candidates (output): 289

@@ -1,0 +1,8 @@
+# Local rerun artefacts (not in the committed repo)
+logs/*.rerun.log
+DeepTMHMM/embeddings/
+
+# OS/editor
+.DS_Store
+*.swp
+*~
